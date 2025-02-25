@@ -61,6 +61,6 @@ npm run dev
 
 ### Pré-requisitos
 
-- Node.js  
+- Node.js versão v20.11.0 (ou superior) 
 - npm ou yarn  
 - Docker e Docker Compose  
